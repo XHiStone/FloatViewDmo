@@ -6,7 +6,7 @@
 ```
     <uses-permission android:name="android.permission.VIBRATE" />
 ```
-###使用方法
+##使用方法
 在layout布局文件根布局
 ```
 <?xml version="1.0" encoding="utf-8"?>
