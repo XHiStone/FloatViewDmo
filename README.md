@@ -1,7 +1,7 @@
 # FloatViewDmo
 自定义悬浮按钮
 首先看效果图，截取太粗糙，严重掉帧还望见谅<br>
-![image](https://github.com/18337129968/FloatViewDmo/tree/master/photo/img.gif)<br>
+![image](https://github.com/18337129968/FloatViewDmo/blob/master/photo/img.gif)<br>
 用到了震动所以需要震动权限，该权限已经添加到manifest但是6.0以上需要自己手动添加
 ```
     <uses-permission android:name="android.permission.VIBRATE" />
