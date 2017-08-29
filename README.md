@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-FloatViewImpl是一个静态类已经实现了setFloatViewSideOffset()和setEnableBackground()方法并且给了默认值，可自行修改。
-createFloatView()方法：主要是用来创建悬浮按钮View
-setFloatViewSideOffset()方法：是用来设置悬浮按钮与边缘偏移量主要是用于缩进一定像素
-setEnableBackground()方法：是用来设置是否保留滑动出现背景色并实现消失悬浮按钮
+FloatViewImpl是一个静态类已经实现了setFloatViewSideOffset()和setEnableBackground()方法并且给了默认值，可自行修改。<br>
+createFloatView()方法：主要是用来创建悬浮按钮View<br>
+setFloatViewSideOffset()方法：是用来设置悬浮按钮与边缘偏移量主要是用于缩进一定像素<br>
+setEnableBackground()方法：是用来设置是否保留滑动出现背景色并实现消失悬浮按钮<br>
